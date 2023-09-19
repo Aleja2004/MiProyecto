@@ -1,0 +1,4 @@
+c:\Users\Sena\Desktop\MiProyecto\MiProyecto\obj\Debug\net7.0\MiProyecto.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\Sena\Desktop\MiProyecto\MiProyecto\obj\Debug\net7.0\MiProyecto.AssemblyInfoInputs.cache
+c:\Users\Sena\Desktop\MiProyecto\MiProyecto\obj\Debug\net7.0\MiProyecto.AssemblyInfo.cs
+c:\Users\Sena\Desktop\MiProyecto\MiProyecto\obj\Debug\net7.0\MiProyecto.csproj.CoreCompileInputs.cache
